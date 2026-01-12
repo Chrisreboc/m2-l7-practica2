@@ -7,4 +7,12 @@ $git add .
 3. Versionar el proyecto de forma local:
 $git commit -m "Mensaje Descriptivo."
 
+4. Crear nuevo proyecto o repositorio en github y seguir instrucciones de comandos:
 
+5. Enlanzar o agregar el repositorio remoto de github al repositorio local:
+git remote add origin https://github.com/Chrisreboc/m2-l7-practica2.git
+
+6. Verificar que quedó bien enlazado:
+git remote -v
+
+7. Subir los cambios locales al repositorio remoto (en la nube):
