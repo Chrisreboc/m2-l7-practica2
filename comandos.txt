@@ -1,0 +1,10 @@
+1.Cuando iniciamos un proyecto nuevo, ejecutamos:
+$git init
+
+2.Agregar cambios al área de preparación:
+$git add .
+
+3. Versionar el proyecto de forma local:
+$git commit -m "Mensaje Descriptivo."
+
+
